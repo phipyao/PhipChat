@@ -1,2 +1,2 @@
 # phipchat
-AI chatbot trained using Tensorflow
+AI chatbot trained using the TensorFlow machine learning framework
