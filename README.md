@@ -1,8 +1,6 @@
 # PhipChat
 AI chatbot trained using the TensorFlow machine learning framework
 
-here are some sample chatlogs:
+here are is a sample chatlog:
 
 ![chatlog](https://github.com/phipyao/phipchat/blob/main/chatlog.png?raw=true)
-
-![chatlog](https://github.com/phipyao/phipchat/blob/main/chatlog2.png?raw=true)
