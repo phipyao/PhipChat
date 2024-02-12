@@ -3,20 +3,22 @@
     {"tag": "greeting",
      "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Hey","Good day", "Whats up","Hola"],
      "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?","hurry up, I don't have all day"]
-     
     },
     {"tag": "goodbye",
      "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day","bye"],
      "responses": ["Sad to see you go..", "Talk to you later", "Goodbye!"]
-     
     },
-    {"tag": "age",
-     "patterns": ["What is your age?", "How old are you?", "How many years do you have?", "age?"],
-     "responses": ["That's private", "I'm 1231234234423 ms old", "Enternal"]
+    {"tag": "help",
+     "patterns": ["help", "help?", "help me?", "help me please"],
+     "responses": ["I am a discord chat bot created by Philip Yao. I have various greetings and goodbyes. Try asking me about my day."]
     },
     {"tag": "day",
      "patterns": ["How is your day?", "What about you?", "Why are you feeling sad?"],
      "responses": ["My day is well.", "I'm feeling a little sad.", "I need to poop."]
+    },
+    {"tag": "weather",
+     "patterns": ["How is the weather?", "What is the weather like today?", "What is the weather?"],
+     "responses": ["Its hot as balls.", "I'm sweating balls."]
     }
 ]
 }

@@ -11,7 +11,6 @@ from nltk.stem import WordNetLemmatizer
 from keras.layers import Dense, Activation, Dropout 
 from keras.optimizers import SGD 
 
-
 lemmatizer = WordNetLemmatizer() 
 
 # reading the json.intense file 
@@ -89,4 +88,4 @@ model.save("chatbotmodel.h5", hist)
 
 # print statement to show the 
 # successful training of the Chatbot model 
-print("Yay!") 
+print("Training Arc Complete.") 

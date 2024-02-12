@@ -1,0 +1,19 @@
+Documentation:
+
+Help: phipbot responds with a help message
+
+Hello: any input greeting will work. phipbot will respond with a greeting.
+
+Goodbye: any input goodbye will work. phipbot will respond with a goodbye.
+
+Status: ask phipbot about how it is doing. it will respond with a message.
+
+Weather: ask phipbot about the weather. it will talk about the weather.
+
+
+
+Requirements:
+
+a .env file with a DISCORD_TOKEN 
+
+your discord bot also needs to be authorized to recieve and respond to messages.
