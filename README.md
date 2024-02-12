@@ -1,5 +1,5 @@
 # PhipChat
-AI chatbot trained using the TensorFlow machine learning framework
+AI discord chatbot trained using TensorFlow
 
 here are is a sample chatlog:
 
